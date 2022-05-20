@@ -1,5 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 2f5afebc7600f7345b194eb28e5f8f8c
+=======
+<<<<<<<< HEAD:Assets/Palette.meta
+guid: e449e5777a7da484387d09bde8a3e056
+========
+guid: a5d69058d911c2449be03cdc83511e8d
+>>>>>>>> 3d56c6470c8b4a0b12d4877f04602875352c40e5:Assets/Tiles.meta
+>>>>>>> 3d56c6470c8b4a0b12d4877f04602875352c40e5
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

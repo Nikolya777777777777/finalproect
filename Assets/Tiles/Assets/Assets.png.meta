@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8cbf0a4ea9a38af4d9a682a4dcbafcb4
 TextureImporter:
   internalIDToNameTable:
@@ -1013,6 +1014,11 @@ TextureImporter:
   - first:
       213: -5086645027579010059
     second: Assets_336
+=======
+guid: 3fcf9ba4f86fa444cba90a1145516af1
+TextureImporter:
+  internalIDToNameTable: []
+>>>>>>> 3d56c6470c8b4a0b12d4877f04602875352c40e5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1056,7 +1062,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 16
+=======
+  spritePixelsToUnits: 100
+>>>>>>> 3d56c6470c8b4a0b12d4877f04602875352c40e5
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1108,6 +1118,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
+<<<<<<< HEAD
     sprites:
     - serializedVersion: 2
       name: Assets_0
@@ -8186,6 +8197,9 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+=======
+    sprites: []
+>>>>>>> 3d56c6470c8b4a0b12d4877f04602875352c40e5
     outline: []
     physicsShape: []
     bones: []
